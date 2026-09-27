@@ -577,6 +577,8 @@ Dengan tahapan tersebut, dataset dapat menjadi lebih **terstruktur, konsisten, d
 ## 👨‍💻 Author
 
 **Farma Ardan**
+
 2418061
+
 Mahasiswa Teknik Informatika  
 Institut Teknologi Nasional Malang
